@@ -7,7 +7,7 @@ import java.util.List;
 
 public class TableMetaData{
     private String tableName;
-            private List<ColumnMetaData> columns;
+    private List<ColumnMetaData> columns;
 
     public TableMetaData() {
     }
