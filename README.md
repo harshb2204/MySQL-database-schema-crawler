@@ -18,7 +18,7 @@ This is a Spring Boot application designed to extract and display metadata from 
 
 ## Project Structure
 ```
-Vistora
+
 │── src
 │   ├── main
 │   │   ├── java/com/example/vistora
